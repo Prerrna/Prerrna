@@ -48,14 +48,6 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> </a>
 </p>
 
----
-
-<h3 align="left">My Projects:</h3>
-<ul>
-    <li><strong>[Project Name 1]</strong> - A brief description of what the project does and the technologies used.</li>
-    <li><strong>[Project Name 2]</strong> - A brief description of what the project does and the technologies used.</li>
-    <li><strong>[Project Name 3]</strong> - A brief description of what the project does and the technologies used.</li>
-</ul>
 
 ---
 
